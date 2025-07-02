@@ -121,7 +121,7 @@
 	.preview-content :global(h1),
 	.preview-content :global(h2),
 	.preview-content :global(h3) {
-		color: #89ddff;
+		color: var(--accent-color);
 		border-bottom: 1px solid var(--border-color);
 		padding-bottom: 0.3em;
 		margin-top: 2em;
