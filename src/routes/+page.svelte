@@ -89,7 +89,7 @@
 				</button>
 				<a
 					class="icon-button"
-					href="https://github.com/lekkaaudisy"
+					href="https://github.com/lekkaaudisy/markdown-scratchpad"
 					target="_blank"
 					rel="noopener noreferrer"
 					aria-label="View source on GitHub"
