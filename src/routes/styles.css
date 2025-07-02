@@ -156,8 +156,8 @@ button:hover {
 }
 
 .secondary {
-  background-color: #363a4f;
-  color: var(--text-secondary);
+  background-color: var(--error-color);
+  color: var(--bg-primary);
   border-color: var(--border-color);
 }
 
